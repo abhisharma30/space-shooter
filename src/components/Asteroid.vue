@@ -24,7 +24,7 @@ export default {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-image: url('../assets/asteroid.png');
+  background-image: url("../assets/asteroid.png");
   background-size: cover;
 }
 </style>

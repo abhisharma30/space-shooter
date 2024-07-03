@@ -3,19 +3,19 @@
 </template>
 
 <script>
-import LayoutContainer from './views/MainLayout.vue'
+import LayoutContainer from "./views/MainLayout.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    LayoutContainer
-  }
-}
+    LayoutContainer,
+  },
+};
 </script>
 
 <style>
 #app {
-  font-family: 'IBM Plex Sans', Inter, Helvetica, Arial, sans-serif;
+  font-family: "IBM Plex Sans", Inter, Helvetica, Arial, sans-serif;
   text-align: center;
 }
 </style>
